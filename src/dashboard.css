@@ -1,0 +1,77 @@
+.headdesign
+{
+margin: 20px;
+padding: 30px;
+
+
+}
+
+.de{
+
+    text-align: center;
+    padding-top: 100px;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.design
+{
+color :white;
+    padding: 60px;
+    background-color:midnightblue;
+    margin: 10px;
+}
+.paste{
+
+    font-family: 'Times New Roman', Times, serif;
+   color: rgb(223, 223, 25);
+font-size: 25px;
+   font-weight: 800;
+    padding-bottom: 10px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+#butshort
+{
+    margin-top: 20px;
+    margin-left: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+   
+    
+}
+
+.copy{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: rgb(223, 223, 25);
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.col{
+
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+.moto{
+
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(207, 33, 47);
+}
+.footer{
+font-size:10px;
+    background-color: black;
+    color: white;
+    padding-left: 190px;
+    padding-bottom: 0px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
